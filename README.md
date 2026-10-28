@@ -70,7 +70,7 @@
    [plugins.aiuo.net/plugins/io.github.czp0312.subscription-quota](https://plugins.aiuo.net/plugins/io.github.czp0312.subscription-quota)。
 3. 安装时审阅权限并授权（`net.fetch` 属高风险权限）。
 
-插件 id 是 `io.github.czp0312.subscription-quota`。源码当前版本为 `0.7.4`；市场版本以市场实际发布记录为准。
+插件 id 是 `io.github.czp0312.subscription-quota`。源码当前版本为 `0.4.2`；市场版本以市场实际发布记录为准。
 
 **方式二 · 安装插件包**
 
@@ -89,7 +89,7 @@
 
 装好后：右侧工作面板的视图菜单里会出现 **订阅额度**；命令面板（`Cmd/Ctrl+K`）执行 **订阅额度：打开完整面板** 也可打开。
 
-## 两种展示方式（0.7.0）
+## 两种展示方式
 
 浮层采用圆角纯白背景、黑色文字和青绿色渐变进度条，打开和关闭时分别播放 180ms 渐入、渐出动画；系统开启减少动态效果时不播放。工具栏按钮无边框、无背景，文字随深浅色主题适配。独立悬浮小组件已移除。
 
